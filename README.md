@@ -48,9 +48,6 @@ This is normal and is caused by the script being compressed. The script will run
 Open new activities more slowly as the script needs time to inject onto the page.
 
 
-## Does this script skip videos?
-Yes and no. It depends on the class. Edgenuity videos are fairly inconsistent, so it may not skip at all and you will have to watch the video, yet it may complete instructions in seconds at other times. Another example of video skipping is Frame Advance, which allows you to cut around 8 seconds off each video.
-
 ## Disclaimer ⚠️
 *Edgesploit is intended for demonstration purposes only. Therefore, by using it, you accept full responsibility for your actions and any repercussions that may result from your use of Edgesploit. Edgesploit's developers or distributors are not accountable for any damages, losses, or legal concerns that may arise as a consequence of its usage. Edgesploit is to be used at your own risk. The tool should only be used legally and responsibly, in accordance with all applicable laws and regulations. Academic integrity violations may result in serious consequences, such as academic penalties, legal action, and damage to one's reputation. Edgesploit is provided "as is," with no explicit or implied guarantees. Edgesploit's developers or distributors make no claims or warranties about its operation or reliability for any given use. By using Edgesploit, you agree to the following conditions of use and acknowledge the importance of integrity and legal compliance in all of your actions.*
 
