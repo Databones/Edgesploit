@@ -13,16 +13,18 @@ Start by doing the following:
 ## What does Edgesploit do? 🤔
 Edgesploit has...
 - **Activity Advance**: Advances to the next activity when the current one is complete.
-- **Answer Guesser**: Selects random answers for non-graded activities.
-- **Answer Lookup**: Offers several links when you select a question.
+- **Answer Lookup**: Pops up several links when you select a question.
 - **Anti Logout**: Prevents automatic logouts from inactivity.
-- **Auto Vocab**: Fills in vocabulary answers in Vocabulary activities.
-- **Duplicate Tabs**: Allows opening multiple tabs.
+- **Auto Vocab**: Fills words in vocabulary activities.
+- **Duplicate Tabs**: Allows the use of multiple tabs.
 - **Frame Advance**: Automatically clicks to the next frame.
-- **Frame Bypass**: Removes frame restrictions to freely navigate through activities.
+- **Frame Bypass**: Removes restrictions to freely navigate through frames.
+- **Free Roam**: Module that lets you click on any gated activity.
+- **Guess Ungraded**: Selects random answers for non-graded activities.
+- **Name Spoofer**: Hides personally-identifying labels.
 - **Show Columns**: Shows every hidden question in assignments.
-- **Skip Intros**: Removes introduction screens that block your inputs.
-- **Themes:** Replaces Edgenuity's depressing background with any background you want.
+- **Skip Intros**: Removes introduction screens that block your input.
+- **Themes:** Replaces Edgenuity's depressing background with any background you desire.
 
 
 ## The script is not working. ❓
@@ -36,7 +38,7 @@ You can report bugs, find support, & suggest features on my [Discord server.](ht
 
 
 ## Any keybinds?
-Shift+Z to open & close the menu
+Shift+X to open & close the menu
 Shift+D to hide & show the menu icon.
 
 
