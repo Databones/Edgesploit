@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         Edgesploit
+// @version      2.0.5
+// @author       Databones
+// @namespace    discord.gg/HQmSYGK8tV
+// @description  Edgenuity does not care about your user experience. We do. Spread this script to your classmates in protest of Edgenuity purposely staying as an outdated, unfulfilling platform! :)
+// @icon         https://raw.githubusercontent.com/Databones/Edgesploit/main/img/logo.png
+// @match        *://*.core.learn.edgenuity.com/*
+// @match        *://student.edgenuity.com/*
+// @match        *://*.powerspeak.edgenuity.com/*
+// @run-at       document-end
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @updateURL    https://raw.githubusercontent.com/Databones/Edgesploit/main/meta
+// @downloadURL  https://raw.githubusercontent.com/Databones/Edgesploit/main/Edgesploit.user.js
+// ==/UserScript==
