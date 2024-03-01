@@ -28,7 +28,7 @@ Edgesploit has...
 
 
 ## Does Edgesploit answer questions for you?
-Consider purchasing [Initium](https://initium.social/store), and you can get access to a fast, 99.9% accurate auto-answering bot paired with Edgesploit!
+Consider purchasing [Initium](https://initium.social), and you can get access to a fast, 99.9% accurate auto-answering bot paired with Edgesploit!
 
 
 ## The script is not working. ❓
