@@ -27,8 +27,17 @@ Edgesploit has...
 - **Themes:** Replaces the depressing background with any background you desire.
 
 
-## Does Edgesploit answer questions for you?
+## Does Edgesploit answer questions for you? ✍️
 Consider purchasing [Initium](https://initium.social), and you can get access to a fast, 99.9% accurate auto-answering bot paired with Edgesploit!
+
+
+## Any keybinds? 💻
+Shift+X to open & close the menu
+Shift+D to hide & show the menu icon.
+
+
+## Does this script skip videos? 🎥
+Sometimes. It depends on chance. Videos are inconsistent, so it may not skip at all and you will have to watch the video, yet other times, it may complete instructions in seconds. Another small example is Frame Advance, which allows you to cut around 8 seconds off each video.
 
 
 ## The script is not working. ❓
@@ -38,24 +47,16 @@ You can troubleshoot by doing the following:
 - Update your browser to the latest version.
 - Try using different browsers. Recommend to start off using Google Chrome (the browser Edgesploit has been tested on).
 
-You can report bugs, find support, & suggest features on my [Discord server.](https://discord.gg/HQmSYGK8tV)
+You can report bugs, find support, & suggest features on our [Discord server.](https://discord.gg/HQmSYGK8tV)
 
 
-## Any keybinds?
-Shift+X to open & close the menu
-Shift+D to hide & show the menu icon.
+## Theres are several errors shown in TamperMonkey. ❓
+This is normal and is caused by the script being compressed. The script should run good.
 
 
-## Theres are several errors in the script.
-This is normal and is caused by the script being compressed. The script will run fine.
-
-
-## Duplicate tabs is not working.
+## Duplicate Tabs is not working. ❓
 Open new activities more slowly as the script needs time to inject onto the page.
 
-
-## Does this script skip videos?
-Sometimes. It depends on chance. Videos are inconsistent, so it may not skip at all and you will have to watch the video, yet other times, it may complete instructions in seconds. Another small example is Frame Advance, which allows you to cut around 8 seconds off each video.
 
 
 ## Disclaimer ⚠️
