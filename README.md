@@ -27,6 +27,10 @@ Edgesploit has...
 - **Themes:** Replaces the depressing background with any background you desire.
 
 
+## Does Edgesploit answer questions for you?
+Consider purchasing [Initium](https://initium.social/store), and you can get access to a fast, 99.9% accurate auto-answering bot paired with Edgesploit!
+
+
 ## The script is not working. ❓
 You can troubleshoot by doing the following:
 - Right click TamperMonkey and go to "Options", click "Settings", and set Config mode to "Advanced".
