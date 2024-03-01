@@ -24,7 +24,7 @@ Edgesploit has...
 - **Name Spoofer**: Hides personally-identifying labels.
 - **Show Columns**: Shows every hidden question in assignments.
 - **Skip Intros**: Removes introduction screens that block your input.
-- **Themes:** Replaces Edgenuity's depressing background with any background you desire.
+- **Themes:** Replaces the depressing background with any background you desire.
 
 
 ## The script is not working. ❓
@@ -51,7 +51,7 @@ Open new activities more slowly as the script needs time to inject onto the pa
 
 
 ## Does this script skip videos?
-Sometimes. It depends on chance. Edgenuity videos are inconsistent, so it may not skip at all and you will have to watch the video, yet other times, it may complete instructions in seconds. Another small example is Frame Advance, which allows you to cut around 8 seconds off each video.
+Sometimes. It depends on chance. Videos are inconsistent, so it may not skip at all and you will have to watch the video, yet other times, it may complete instructions in seconds. Another small example is Frame Advance, which allows you to cut around 8 seconds off each video.
 
 
 ## Disclaimer ⚠️
